@@ -31,17 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Important Notification or Disruptive Distraction?](/pdf/Notification%20Disctractions_Gibson.pdf)
+### 
+![Important Notification or Disruptive Distraction?](/pdf/Notification%20Disctractions_Gibson.pdf)
 
 -   **Procedural Programming** 
 -   **Grade:**
 
-### [Survey of Scripting Languages Ethics Paper](/pdf/SOSL%20Ethics%20Paper_Gibson%20.pdf)
+### 
+![Survey of Scripting Languages Ethics Paper](/pdf/SOSL%20Ethics%20Paper_Gibson%20.pdf)
 
 -   **Survey of Scripting Languages** 
 -   **Grade:**
 
-### [Intellectual Property & Software Ownership Ethics Paper](/pdf/Intellectual%20Property_Ethics%20Paper_Applied%20Networking.pdf)
+### 
+![Intellectual Property & Software Ownership Ethics Paper](/pdf/Intellectual%20Property_Ethics%20Paper_Applied%20Networking.pdf)
 
 -   **Applied Networking**  
 -   **85**
