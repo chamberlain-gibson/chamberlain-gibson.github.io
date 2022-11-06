@@ -41,7 +41,7 @@ Ethics Papers
 -   **Survey of Scripting Languages** 
 -   **Grade:**
 
-### [Intellectual Property & Software Ownership Ethics Paper](#intellectual-property--software-ownership-ethics-paper)
+### [Intellectual Property & Software Ownership Ethics Paper]{:target "\_blank"}(/pdf/Intellectual%20Property_Ethics%20Paper_Applied%20Networking.pdf)
 
 -   **Applied Networking**  
 -   **85**
