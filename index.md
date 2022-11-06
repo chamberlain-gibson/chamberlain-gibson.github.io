@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Database Final Project](/pdf/Final Project_Gibson.pdf)
+### [Database Final Project](\pdf\Final Project_Gibson.pdf)
 
 -   Class: DATABASE MANAGEMENT
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](chamberlain-gibson.github.io\pdf\Final Project_Gibson.pdf)
 
 - **Class:** 
 - **Grade:**
