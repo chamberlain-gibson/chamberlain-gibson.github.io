@@ -53,7 +53,7 @@ Presentations
 
 ### [Database Final Project](/pdf/Final Project_Gibson.pdf)
 
-- **Class: DATABASE MANAGEMENT** 
+- [Class: DATABASE MANAGEMENT]
 - **Grade:**
 
 
