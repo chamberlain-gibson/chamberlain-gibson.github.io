@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:clgibson@csustudent.net) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](Project 1/project1.md)
@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Database Final Project](\pdf\Final Project_Gibson.pdf)
+### [Database Final Project](pdf\Final Project_Gibson.pdf)
 
 -   **Database Management** 
 -   **100**
