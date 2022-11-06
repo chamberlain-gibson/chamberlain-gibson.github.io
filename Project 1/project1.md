@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](/index.md)
 
 Project 1 Title
 ===============
@@ -6,7 +6,7 @@ Project 1 Title
 -   **Class:** 
 -   **Grade:** 
 -   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [chamberlain-gibson/Project-1](https://github.com/chamberlain-gibson/Project-1)  
     (Please [email me](mailto:clgibson@csustudent.net) to request access.)
 
 ## Project description
