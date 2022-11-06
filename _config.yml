@@ -1,11 +1,11 @@
 # Site settings
 # These are used to personalize your new site.
 title: Chamberlain L. Gibson 
-logo: "chamberlain-gibson.github.io/images/chambs_pic.JPG" 
+logo: "images/chambs_pic.JPG"
 description: >
   CSCI 496: Senior Portfolio<br />
   In partial fulfillment of the requirements for the degree of
-  Bachelor of Science in Cyber Security (class of 2023)
+  Bachelor of Science in Cyber Security
   <br /><br />
   <a href="https://app.joinhandshake.com/stu/users/25818151">View My Resume</a>
   <br /><br />
@@ -17,3 +17,4 @@ google_analytics: UA-000000-0
 # Build setting
 theme: jekyll-theme-minimal
 
+images\chambs_pic.JPG"
