@@ -1,11 +1,11 @@
 [Back to Portfolio](/index.md)
 
-Project 1 Title
+Final Project: Hangman
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Procedural Programming** 
+-   **95** 
+-   **C++** 
 -   **Source Code Repository:** [chamberlain-gibson/Project-1](https://github.com/chamberlain-gibson/Project-1)  
     (Please [email me](mailto:clgibson@csustudent.net) to request access.)
 
