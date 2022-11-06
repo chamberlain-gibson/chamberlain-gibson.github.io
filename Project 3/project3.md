@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project 3 Title
 ===============
 
 -   **Class:** 
 -   **Grade:** 
 -   **Language(s):** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:clgibson@csustudent.net) to request access.)
 
 ## Project description
 
