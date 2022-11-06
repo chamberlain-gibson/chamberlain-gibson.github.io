@@ -57,7 +57,7 @@ Presentations
 -   **100**
 
 
-### [Hacking Hackers](\pdf\Hacking Hackers_Gibson.pdf)
+### [Hacking Hackers](pdf\Hacking Hackers_Gibson.pdf)
 
 -   **PRINCIPLES OF CYBERSECURITY** 
 -   **100**
