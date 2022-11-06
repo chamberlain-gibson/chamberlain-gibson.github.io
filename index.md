@@ -36,14 +36,14 @@ Ethics Papers
 -   **Applied Networking**  
 -   **85**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Paper 2 Title](/pdf/Notification%20Disctractions_Gibson.pdf)
 
--   **Class:** 
+-   **Object-Oriented Programming** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Paper 3 Title](/pdf/SOSL%20Ethics%20Paper_Gibson%20.pdf)
 
--   **Class:** 
+-   **Survey of Scripting Languages** 
 -   **Grade:**
 
 ---
