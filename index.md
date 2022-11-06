@@ -53,14 +53,14 @@ Presentations
 
 ### [Database Final Project](\pdf\Final Project_Gibson.pdf)
 
--   <DATABASE MANAGEMENT>
-- **Grade:**
+-   **DATABASE MANAGEMENT** 
+-   **100:**
 
 
 ### [Hacking Hackers](\pdf\Hacking Hacker_Gibson.pdf)
 
--   <Principles of Cybersecurity> 
-- **Grade:**
+-   **PRINCIPLES OF CYBERSECURITY** 
+-   **100**
 
 ---
 
