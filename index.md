@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Intellectual Property & Software Ownership Ethics Paper](/pdf/Intellectual%20Property_Ethics%20Paper_Applied%20Networking.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **APPLIED NETWORKING**  
+-   **85**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
