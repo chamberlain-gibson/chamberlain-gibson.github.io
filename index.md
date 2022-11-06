@@ -54,7 +54,7 @@ Presentations
 ### [Database Final Project](\pdf\Final Project_Gibson.pdf)
 
 -   **DATABASE MANAGEMENT** 
--   **100:**
+-   **100**
 
 
 ### [Hacking Hackers](\pdf\Hacking Hacker_Gibson.pdf)
