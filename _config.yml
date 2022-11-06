@@ -1,7 +1,7 @@
 # Site settings
 # These are used to personalize your new site.
 title: Chamberlain L. Gibson 
-logo: "../images/chambs_pic.JPEG" 
+logo: "chamberlain-gibson.github.io/images/chambs_pic.JPG" 
 description: >
   CSCI 496: Senior Portfolio<br />
   In partial fulfillment of the requirements for the degree of
@@ -11,8 +11,8 @@ description: >
   <br /><br />
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
 repository: "chamberlain-gibson/chamberlain-gibson.github.io"
-github_username:  chamberlain-gibson # update with your username
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+github_username:  chamberlain-gibson 
+google_analytics: UA-000000-0 
 
 # Build setting
 theme: jekyll-theme-minimal
