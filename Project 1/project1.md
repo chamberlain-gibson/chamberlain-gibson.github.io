@@ -16,10 +16,9 @@ This project was to create a game of Hangman.
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
+```
 
-```bash
-cd ./hangman.cpp 
-python setup.py
+
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.

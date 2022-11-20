@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](./index.md)
 
 Project 2 Title
 ===============
@@ -6,16 +6,16 @@ Project 2 Title
 -   **Class:** 
 -   **Grade:** 
 -   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [chamberlain-gibson/Project-2](https://github.com/chamberlain-gibson/Project-2)  
     (Please [email me](mailto:clgibson@csustudent.net) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+
 
 ```bash
 cd ./project
@@ -43,6 +43,4 @@ Fig 3. Feedback when an error occurs.
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-[Back to Portfolio](./)
+[Back to Portfolio](./index.md)

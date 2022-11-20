@@ -34,12 +34,12 @@ Ethics Papers
 ### [Important Notification or Disruptive Distraction?](/pdf/Notification%20Disctractions_Gibson.pdf)
 
 -   **Procedural Programming** 
--   **Grade:**
+-   **85**
 
 ### [Survey of Scripting Languages Ethics Paper](/pdf/SOSL%20Ethics%20Paper_Gibson%20.pdf)
 
 -   **Survey of Scripting Languages** 
--   **Grade:**
+-   **100**
 
 ### [Intellectual Property & Software Ownership Ethics Paper](/pdf/Intellectual%20Property_Ethics%20Paper_Applied%20Networking.pdf)
 
@@ -64,5 +64,15 @@ Presentations
 
 ---
 
+Reflection Essay 
+-------------
+### [Reflection Essay](./Reflection%20Essay.md)
+
+-   **1. Discuss one challenge you overcame during your academic development. What was the challenge, was it technical, nontechnical, or both, and how did you overcome it?**
+-   **2. Discuss a situation where you worked with a team. How would you describe yourself as a teammate? Where can you improve your team skills? Be specific.**
+-   **What type of career in CS do you believe you are most suited for? Why this field and not another? Be specific.**
+-   **What professional organizations would you like to join? What professional development would you like to be a part of in the next five years? Be specific and don't consider places of employment.**
+-   **What are the ways you can use the skills you have learned in CS to serve your community? Be specific.** 
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
-<!-- Remove above link if you don't want to attributive -->
