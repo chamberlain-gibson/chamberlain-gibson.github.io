@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:clgibson@csustudent.net) with the subject line, GitHub Access.
 
 ---
-### [Hangman | CSCI 301](Project 1/project1.md)
+### [Hangman | CSCI 235](Project 1/project1.md)
 
 ![Hangman](/images/error.jpg)
 
