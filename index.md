@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:clgibson@csustudent.net) with the subject line, GitHub Access.
 
 ---
-### [Hangman | CSCI 235](Project 1/project1.md)
+### [Todo List - jQuery + CSS + HTML | CSCI 301](Project 1/project1.md)
 
-![Hangman](/images/error.jpg)
+![Todo List - jQuery + CSS + HTML](/images/Todo%20List.jpg)
 
 ---
 ### [Project 2 Title | CSCI 315](Project 2/project2.md)
