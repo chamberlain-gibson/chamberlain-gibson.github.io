@@ -6,7 +6,7 @@ Network Namespaces
 -   **Network Security** 
 -   **100** 
 -   **Bash, Linux Commands** 
--   **Source Code Repository:** [Project-4]()  
+-   **Source Code Repository:** [chamberlain-gibson/Project-4](https://github.com/chamberlain-gibson/Project-4)  
     (Please [email me](mailto:clgibson@csustudent.net) to request access.)
 
 ## Project description

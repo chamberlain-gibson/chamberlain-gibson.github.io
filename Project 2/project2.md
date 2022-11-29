@@ -1,10 +1,10 @@
 [Back to Portfolio](/index.md)
 
-Project 2 Title
+
 ===============
 
--   **Class:** 
--   **Grade:** 
+-   **Applied Network** 
+-   **100** 
 -   **Language(s):** 
 -   **Source Code Repository:** [chamberlain-gibson/Project-2](https://github.com/chamberlain-gibson/Project-2)  
     (Please [email me](mailto:clgibson@csustudent.net) to request access.)

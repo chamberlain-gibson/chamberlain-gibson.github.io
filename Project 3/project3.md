@@ -6,7 +6,7 @@ Project 3 Title
 -   **Class:** 
 -   **Grade:** 
 -   **Language(s):** 
--   **Source Code Repository:** [Poject-3](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [chamberlain-gibson/Poject-3](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:clgibson@csustudent.net) to request access.)
 
 ## Project description
