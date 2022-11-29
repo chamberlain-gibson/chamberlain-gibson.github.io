@@ -10,7 +10,7 @@ Final Project: Hangman
     (Please [email me](mailto:clgibson@csustudent.net) to request access.)
 
 ## Project description
-
+Creating a list that can be queried with CSS and JavaScript. To be able to personalize the list from the three languages coexsting. The user is able to add or remove any given item. Mark off a completed task or add an additional task to the list. 
 
 
 ## How to compile and run the program
@@ -22,18 +22,18 @@ CodePen Assignment
 ```
 
 ## UI Design
-Click here to view assignment: [CodePen assignment](https://codepen.io/chamberlain-gibson/pen/ZEJowZJ)
+Click here to view assignment: [CodePen](https://codepen.io/chamberlain-gibson/pen/ZEJowZJ)
 
-![screenshot](/images/hangman%20.jpg)  
+![screenshot](/images/Todo%20List.jpg)  
 Fig 1. The launch screen
 
-![screenshot](/images/UI_Hangman.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](/images/User%20Input%20Todo%20List.jpg)  
+Fig 2. Example of when a user is adding an item to the list.
 
-![screenshot](/images/error.jpg)  
+![screenshot]()  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
-
+CodePen is fun for any beginner learning multiple languages at once.
 
 [Back to Portfolio](/index.md)

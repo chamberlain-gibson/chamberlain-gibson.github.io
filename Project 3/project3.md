@@ -1,4 +1,4 @@
-[Back to Portfolio](./index.md)
+[Back to Portfolio](/index.md)
 
 Project 3 Title
 ===============
@@ -6,7 +6,7 @@ Project 3 Title
 -   **Class:** 
 -   **Grade:** 
 -   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Poject-3](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:clgibson@csustudent.net) to request access.)
 
 ## Project description
@@ -43,6 +43,5 @@ Fig 3. Feedback when an error occurs.
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Back to Portfolio](./)
+[Back to Portfolio](/index.md)

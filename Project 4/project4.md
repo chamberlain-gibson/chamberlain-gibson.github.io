@@ -1,48 +1,45 @@
-[Back to Portfolio](./index.md)
+[Back to Portfolio](/index.md)
 
-Project 4 Title
+Network Namespaces
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Network Security** 
+-   **100** 
+-   **Bash, Linux Commands** 
+-   **Source Code Repository:** [Project-4]()  
     (Please [email me](mailto:clgibson@csustudent.net) to request access.)
 
 ## Project description
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Create two emulated isolated hosts connected together through openVswitch. Setup the indivudal Red and Green Namespaces. Check IP Ling on network ns and install openVswitch. Then, start creating the first bridge with openVswitch through the Veith Pipe Creation. This is how the second bridge will also be created. With this connection we can run "sudo ip link" to see if the bridges were set up correctly.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
-```bash
-cd ./project
-python setup.py
 ```
+Kali Linux Installer for Virtualbox
+Linux commands- very similar to Ubuntu BUT slightly different
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
-
+```
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+Kali Linux has a very unique design that is extremely different from other virtual machines. To be able to create two separate Linux networking namespaces and send information to each other is the main idea. 
+-- Multiple isolated networking environments running on a single physical host or virtual machine.
+-- Each network namespace (ns) has its own interfaces, routing tables,
+and forwarding tables
+-- Processes can be dedicated to one network ns
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](/images/Network%20Security_2.png)  
+Fig 1. Ping command that the Red Namespaces can get information from the Green Namespaces is reachable.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](/images/Network%20Security_1.png)  
+Fig 2. The "ip a" command shows all the IP Addresses and it demonstrates the Red and Green Namespaces were properly created for the connection. 
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](/images/Network%20Security_3.png)  
+Fig 3. Command to show the display link between the Red Namespaces and Green Namespaces.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Linux commands should be any Cyber Security professional's second language. To be able to use RedHat or Debian is absolutely vital for certain jobs. This can allow any Cyber Security major to potentially consider the CompTIA Linux+ Certification.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-[Back to Portfolio](./)
+[Back to Portfolio](/index.md)
