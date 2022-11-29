@@ -66,7 +66,7 @@ Presentations
 
 Reflection Essay 
 -------------
-### [Reflection Essay](./Reflection%20Essay.md)
+### [Reflection Essay](/Home/Reflection%20Essay.md)
 
 -   **1. Discuss one challenge you overcame during your academic development. What was the challenge, was it technical, nontechnical, or both, and how did you overcome it?**
 -   **2. Discuss a situation where you worked with a team. How would you describe yourself as a teammate? Where can you improve your team skills? Be specific.**
