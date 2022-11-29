@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:clgibson@csustudent.net) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](Project 1/project1.md)
+### [Hangman | CSCI 301](Project 1/project1.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Hangman](/images/error.jpg)
 
 ---
 ### [Project 2 Title | CSCI 315](Project 2/project2.md)
@@ -74,5 +74,3 @@ Reflection Essay
 -   **What professional organizations would you like to join? What professional development would you like to be a part of in the next five years? Be specific and don't consider places of employment.**
 -   **What are the ways you can use the skills you have learned in CS to serve your community? Be specific.** 
 
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
