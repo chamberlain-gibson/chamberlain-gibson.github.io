@@ -30,8 +30,8 @@ Fig 1. The launch screen
 ![screenshot](/images/User%20Input%20Todo%20List.jpg)  
 Fig 2. Example of when a user is adding an item to the list.
 
-![screenshot]()  
-Fig 3. Feedback when an error occurs.
+![screenshot](/images/Todo%20List%20error.jpg)  
+Fig 3. Example of when a user removes an item from the list.
 
 ## 3. Additional Considerations
 CodePen is fun for any beginner learning multiple languages at once.
