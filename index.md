@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Todo List - jQuery + CSS + HTML | CSCI 301](Project 1/project1.md)
 
-![Todo List - jQuery + CSS + HTML](images/Main%20Todo%20List.jpg)
+![Todo List - jQuery + CSS + HTML](/images/Main%20Todo%20List.jpg)
 
 ---
 ### [Project 2 Title | CSCI 315](Project 2/project2.md)
