@@ -3,11 +3,10 @@
 # Senior Portfolio Review CSCI 496-40
 # 19 September 2022
 
-<center>
 ================
 Reflection Essay
 ================
-</center>
+
 
 1. Discuss one challenge you overcame during your academic development. What was the challenge, was it technical, nontechnical, or both, and how did you overcome it?
 <li>The primary challenge I overcame throughout my entire academic career was believing in myself academically. In which case, I have a difficult time trusting that I know the material. 
